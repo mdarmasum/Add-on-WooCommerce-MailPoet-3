@@ -3,7 +3,7 @@ Contributors: kasperta, sebd86
 Tags: mailpoet, wysija, woocommerce, e-commerce, mail, email, e-mail, extension, add-on, newsletter, newsletters, subscription, checkout, list, lists, double opt-in, form
 Donate link: http://www.tikweb.dk/donate/
 Requires at least: 4.6
-Tested up to: 5.0
+Tested up to: 5.1
 Requires PHP: 5.3
 Stable tag: 1.1.2
 
@@ -118,10 +118,6 @@ That's it, now when your customers tick the subscribe checkbox on the checkout p
 3. General plugin settings.
 
 == Changelog ==
-
-= 1.1.2 - 2018-01-11 =
-* Bugfix - Fixed subscription confirmation and status change not happening with previous bugfix.
-* Bugfix - Fixed issue of "subscription fields not showing" when the form position is before or after order submit.
 
 [Changelog](https://plugins.svn.wordpress.org/add-on-woocommerce-mailpoet/trunk/changelog.txt)
 

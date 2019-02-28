@@ -1,5 +1,9 @@
 == Changelog ==
 
+= 1.1.2 - 2018-01-11 =
+* Bugfix - Fixed subscription confirmation and status change not happening with previous bugfix.
+* Bugfix - Fixed issue of "subscription fields not showing" when the form position is before or after order submit.
+
 = 1.1.1 - 2018-01-08 =
 * Bugfix - Fixed 'confirmation email not sent and order not posted' issue with latest Mailpoet v3.17.1
 
